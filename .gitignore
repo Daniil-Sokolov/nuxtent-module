@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+package-lock.json
+
+# build
+dist
+.nuxt
+.dist
+
+# logs
+npm-debug.log
+
+# Coverage directory used by tools like istanbul
+coverage
